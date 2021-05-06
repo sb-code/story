@@ -1,0 +1,5 @@
+this is chapter 2 for testing and learning git hub 
+Thank you
+git add ->add to working area
+git commit -> commit to main repository
+git status -> to view the status of files
